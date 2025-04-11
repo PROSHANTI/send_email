@@ -33,3 +33,8 @@ bcc_to = '_копия_'
 ```bash
 python3 send_email.py 
 ```
+
+
+## Скриншот
+
+![alt text](https://github.com/PROSHANTI/send_email/blob/35f13e74545b337e4be03aaabf45303cdff048f6/Screenshot_MacOS.png?raw=true)
